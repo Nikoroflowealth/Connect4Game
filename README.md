@@ -20,7 +20,7 @@ in the top of the board, along different rows.
 
 
 ## GETTING STARTED: 
-To start game, click here 
+To start game, click here; https://git.generalassemb.ly/nikoroflowealth/Connect4Game-Submission
 
 
 
